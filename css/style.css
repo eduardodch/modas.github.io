@@ -1,0 +1,18 @@
+.header{
+    background-image: url(/img/feet-1840619_1280.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.imginfo{
+    height: 600px;
+}
+.tinfo{
+    padding-top: 200px;
+}
+.marcaimg{
+    height: 650px;
+}
+.Nike{
+    padding-top: 200px;
+    text-decoration-line: underline;
+}
